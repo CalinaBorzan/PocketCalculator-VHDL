@@ -1,0 +1,25 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 60aa5058c3ce474ab75f72e7486b3080 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot calc_behav xil_defaultlib.calc -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture s1 of entity xil_defaultlib.ADDER_1 [adder_1_default]
+Compiling architecture s2 of entity xil_defaultlib.eight_bit_adder_substractor [eight_bit_adder_substractor_defa...]
+Compiling architecture arh of entity xil_defaultlib.product [product_default]
+Compiling architecture arhi of entity xil_defaultlib.divider [divider_default]
+Compiling architecture arh of entity xil_defaultlib.comparator [comparator_default]
+Compiling architecture arh of entity xil_defaultlib.alegere [alegere_default]
+Compiling architecture arh of entity xil_defaultlib.display [display_default]
+Compiling architecture arh of entity xil_defaultlib.Calculator [calculator_default]
+Compiling architecture behavioral of entity xil_defaultlib.calc
+Built simulation snapshot calc_behav

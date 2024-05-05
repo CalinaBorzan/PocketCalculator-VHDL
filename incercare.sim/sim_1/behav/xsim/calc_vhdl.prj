@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../incercare.srcs/sources_1/new/adder.vhd" \
+"../../../../incercare.srcs/sources_1/new/alegere.vhd" \
+"../../../../incercare.srcs/sources_1/new/calculator.vhd" \
+"../../../../incercare.srcs/sources_1/new/comparator.vhd" \
+"../../../../incercare.srcs/sources_1/new/display.vhd" \
+"../../../../incercare.srcs/sources_1/new/impartire.vhd" \
+"../../../../incercare.srcs/sources_1/new/product.vhd" \
+"../../../../incercare.srcs/sim_1/new/calc.vhd" \
+
+# Do not sort compile order
+nosort
