@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed May 31 06:01:28 2023
+# Process ID: 12756
+# Current directory: C:/Users/flori/OneDrive/Desktop/incercare
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9172 C:\Users\flori\OneDrive\Desktop\incercare\incercare.xpr
+# Log file: C:/Users/flori/OneDrive/Desktop/incercare/vivado.log
+# Journal file: C:/Users/flori/OneDrive/Desktop/incercare\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/flori/OneDrive/Desktop/incercare/incercare.xpr
+open_hw
+update_compile_order -fileset sources_1
+connect_hw_server

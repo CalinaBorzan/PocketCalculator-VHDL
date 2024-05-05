@@ -1,0 +1,144 @@
+/*
+
+Xilinx Vivado v2018.3 (64-bit) [Major: 2018, Minor: 3]
+SW Build: 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build: 2404404 on Fri Dec  7 01:43:56 MST 2018
+
+Process ID (PID): 12756
+License: Customer
+
+Current time: 	Wed May 31 06:05:38 EEST 2023
+Time zone: 	Eastern European Standard Time (Europe/Athens)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 2
+
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 352 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.3/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2018.3/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	flori
+User home directory: C:/Users/flori
+User working directory: C:/Users/flori/OneDrive/Desktop/incercare
+User country: 	RO
+User language: 	ro
+User locale: 	ro_RO
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.3
+RDI_DATADIR: C:/Xilinx/Vivado/2018.3/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.3/bin
+
+Vivado preferences file location: C:/Users/flori/AppData/Roaming/Xilinx/Vivado/2018.3/vivado.xml
+Vivado preferences directory: C:/Users/flori/AppData/Roaming/Xilinx/Vivado/2018.3/
+Vivado layouts directory: C:/Users/flori/AppData/Roaming/Xilinx/Vivado/2018.3/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.3/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/flori/OneDrive/Desktop/incercare/vivado.log
+Vivado journal file location: 	C:/Users/flori/OneDrive/Desktop/incercare/vivado.jou
+Engine tmp dir: 	C:/Users/flori/OneDrive/Desktop/incercare/.Xil/Vivado-12756-DESKTOP-3TTEIT3
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.3/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.3/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.3
+XILINX_SDK: C:/Xilinx/SDK/2018.3
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.3
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.3
+
+
+GUI allocated memory:	128 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 387 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// WARNING: HEventQueue.dispatchEvent() is taking  8101 ms.
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 1206ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1393 ms.
+// TclEventType: PROJECT_OPEN_DIALOG
+// HMemoryUtils.trashcanNow. Engine heap size: 387 MB. GUI used memory: 43 MB. Current time: 5/31/23, 6:05:41 AM EEST
+// bx (cp):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\flori\OneDrive\Desktop\incercare\incercare.xpr. Version: Vivado v2018.3 
+// WARNING: HEventQueue.dispatchEvent() is taking  5726 ms.
+// Tcl Message: open_project C:/Users/flori/OneDrive/Desktop/incercare/incercare.xpr 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_FAILED
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/flori/OneDrive/Desktop/incercare/incercare.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/flori/incercare' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 422 MB. GUI used memory: 41 MB. Current time: 5/31/23, 6:07:29 AM EEST
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 92 MB (+94049kb) [00:04:21]
+// [Engine Memory]: 436 MB (+305564kb) [00:04:21]
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 2914 ms. Increasing delay to 3000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  5400 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  3257 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  2627 ms.
+// Project name: incercare; location: C:/Users/flori/OneDrive/Desktop/incercare; part: xc7a35tcpg236-1
+// WARNING: updateGUI() is taking  1240 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1982 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1203 ms.
+// Tcl Message: open_project: Time (s): cpu = 00:00:34 ; elapsed = 00:02:26 . Memory (MB): peak = 657.789 ; gain = 115.762 
+// WARNING: HEventQueue.dispatchEvent() is taking  1272 ms.
+dismissDialog("Open Project"); // bx (cp)
+// Elapsed time: 24 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Program and Debug, Open Hardware Manager]", 21, true); // u (Q, cp) - Node
+// Run Command: PAResourceCommand.PACommandNames_OPEN_HARDWARE_MANAGER
+// Tcl Command: 'rdi::info_commands get_hw_probes'
+// Tcl Command: 'load_features labtools'
+// TclEventType: LOAD_FEATURE
+// bx (cp):  Open Hardware Manager : addNotify
+// WARNING: HEventQueue.dispatchEvent() is taking  14835 ms.
+// Tcl Message: open_hw 
+// TclEventType: HW_SESSION_OPEN
+// [GUI Memory]: 105 MB (+8891kb) [00:05:42]
+// WARNING: HEventQueue.dispatchEvent() is taking  12134 ms.
+// Elapsed time: 29 seconds
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// Tcl Message: open_hw: Time (s): cpu = 00:00:06 ; elapsed = 00:00:14 . Memory (MB): peak = 663.582 ; gain = 5.793 
+// 'Q' command handler elapsed time: 30 seconds
+dismissDialog("Open Hardware Manager"); // bx (cp)
+// WARNING: HTimer (FileMgr Design Graph Update Timer) is taking 538ms to process. Increasing delay to 3000 ms.
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 113 MB (+2328kb) [00:05:48]
+// Elapsed time: 28 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Program and Debug, Open Hardware Manager, Open Target]", 22, false); // u (Q, cp)
+// Run Command: PAResourceCommand.PACommandNames_OPEN_HW_TARGET
